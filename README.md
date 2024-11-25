@@ -1,6 +1,3 @@
-# Try_release_notes
-# Try Release Notes
-
 ## Project Description
 This project is designed to automatically generate release notes using GitHub Actions and Release Drafter.
 
