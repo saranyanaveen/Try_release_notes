@@ -3,8 +3,8 @@ template: |
 
   $CHANGES
 
-name-template: 'v$RESOLVED_VERSION'
-tag-template: 'v$RESOLVED_VERSION'
+name-template: 'v$NEXT_MAJOR.$NEXT_MINOR.$NEXT_PATCH'
+tag-template: 'v$NEXT_MAJOR.$NEXT_MINOR.$NEXT_PATCH'
 categories:
   - title: '🚀 Features'
     labels:
